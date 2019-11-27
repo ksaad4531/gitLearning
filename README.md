@@ -1,4 +1,7 @@
 # gitLearning
 # gitLearning
-modified readme.me file
+modified readme.md file
 
+modifying all files
+great experince 
+im gonna keep learning
